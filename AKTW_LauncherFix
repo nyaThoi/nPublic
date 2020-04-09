@@ -1,0 +1,21 @@
+Change to ur Gamefolder
+X:\\Genshin\\Launcher.exe
+
+Important Part is "URL Protocol" !
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\XlegendFFO]
+@="URL:Xlegend Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\XlegendFFO\DefaultIcon]
+@="X:\\Genshin\\Launcher.exe,1"
+
+[HKEY_CLASSES_ROOT\XlegendFFO\shell]
+
+[HKEY_CLASSES_ROOT\XlegendFFO\shell\open]
+
+[HKEY_CLASSES_ROOT\XlegendFFO\shell\open\command]
+@="X:\\Genshin\\Launcher.exe %1"
+
