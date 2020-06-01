@@ -1,4 +1,4 @@
-# **nAKH is the Modify Version from EAL**
+# **nAuraKingdomHelper is the Modify Version from EAL**
 
 **Hotkey Feature:**
 - F9 Open nAKH Interface
@@ -16,7 +16,7 @@
 **EAL Feature:**
 - https://github.com/AlainProvist/EAL
 
-# **nTSH is the Modify Version from nAKH (Aura Kingdom)**
+# **nTwinSagaHelper is the Modify Version from nAKH**
 
 **Hotkey Feature:**
 - F9 Open nTSH Interface
