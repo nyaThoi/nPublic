@@ -16,16 +16,6 @@
 **EAL Feature:**
 - https://github.com/AlainProvist/EAL
 
-# **nTwinSagaHelper is the Modify Version from nAKH**
-
-**Hotkey Feature:**
-- F9 Open nTSH Interface
-- F10 Teleport Interface
-
-**nTSH Features:**
-- Speedhack
-- Zoom Hack, increase Zoom limiter
-
 # **Requirement**
 - Windows 7,8 or 10
 
