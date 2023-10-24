@@ -3,7 +3,7 @@
 **Hotkey Feature:**
 - F9 Open nAKH Interface
 - F10 Teleport Interface
-- F11 Full Resurrection
+- ~~F11 Full Resurrection~~
 
 **nAKH Features:**
 - Speedhack
